@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "RNF";
+    return BuildConfig.MAIN_COMPONENT_NAME;
   }
 }
